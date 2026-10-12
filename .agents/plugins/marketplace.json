@@ -1,0 +1,20 @@
+{
+  "name": "xpansive-private",
+  "interface": {
+    "displayName": "Xpansive Private"
+  },
+  "plugins": [
+    {
+      "name": "conselho-money",
+      "source": {
+        "source": "local",
+        "path": "./plugins/conselho-money"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

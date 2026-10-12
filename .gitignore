@@ -1,0 +1,18 @@
+*.zip
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+secrets.*
+
+# Diretórios legados mantidos apenas no workspace de auditoria local.
+plugins/conselho-money/skills/eugene-schwartz/
+plugins/conselho-money/skills/clayton-makepeace/
+plugins/conselho-money/skills/gary-halbert/
+plugins/conselho-money/skills/john-carlton/
+plugins/conselho-money/skills/gary-bencivenga/
+plugins/conselho-money/skills/stefan-georgi/
+plugins/conselho-money/skills/robert-greene/
+plugins/conselho-money/skills/quentin-tarantino/
+plugins/conselho-money/skills/setup/

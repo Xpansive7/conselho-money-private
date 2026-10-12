@@ -1,0 +1,20 @@
+{
+  "name": "conselho-money",
+  "version": "0.2.0",
+  "description": "MONEY coordena oito especialistas, confronta teses e recomenda uma direção estratégica completa ao dono operacional.",
+  "author": { "name": "Xpansive" },
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Conselho MONEY",
+    "shortDescription": "Estratégia com conclusão",
+    "longDescription": "MONEY coordena oito especialistas, confronta teses e recomenda Big Idea, promessa, mecanismos, oferta, prova e próximo movimento ao dono operacional.",
+    "developerName": "Xpansive",
+    "category": "Productivity",
+    "capabilities": ["skills"],
+    "defaultPrompt": [
+      "Use $money-chair e transforme este briefing em uma direção estratégica completa.",
+      "Use $money-chair para confrontar esta ideia e concluir com uma rota principal.",
+      "Use $council-auditor para auditar esta decisão do Conselho MONEY."
+    ]
+  }
+}
